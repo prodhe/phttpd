@@ -1,0 +1,10 @@
+/----------------\
+|     pHTTPd     |
+\----------------/
+
+TODO
+----
+
+- Fixa loggning till fil
+- Automagisk indexering (directory listing)
+- Separat konfigurationsfil
